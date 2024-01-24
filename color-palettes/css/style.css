@@ -1,0 +1,84 @@
+#fl {
+    font-family:cursive;
+    text-align: center;
+}
+
+#fl-1 {
+    background-color:#B0C25E;
+    color:black;
+    font-family:serif;
+    text-align: center;
+    padding: 24px;
+
+
+}
+
+#fl-2 {
+    background-color: #ffc99d;
+    color:black;
+    font-family: serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#fl-3 {
+    background-color: #f49269;
+    color:black;
+    font-family: serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#sea {
+    font-family: sans-serif;
+    text-align: center;
+}
+#sea-1 {
+    background-color: #7fa4ff;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#sea-2 {
+    background-color:#70cfae;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#sea-3 {
+    background-color:#37987a;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#sun {
+    font-family: fantasy;
+    text-align: center;
+}
+#sun-1 {
+    background-color:#fbab2f;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 24px
+}
+#sun-2 {
+    background-color:#ffc0b7;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 24px
+}
+#sun-3 {
+    background-color:#ff8982;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 24px
+}
